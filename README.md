@@ -39,8 +39,6 @@
 
 
 
-#
-
 ### Status
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwodnb&show_icons=true&theme=onedark)
@@ -48,7 +46,10 @@
 
 
 
-<!-- ![](https://github.com/IwoDNB/IwoDNB/blob/main/img/banerColor.png) -->
+
+
+
+![](https://github.com/IwoDNB/IwoDNB/blob/main/img/banerColor.png)
 ​
 
 
