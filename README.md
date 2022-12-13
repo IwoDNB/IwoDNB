@@ -8,8 +8,6 @@
 **I have found the use of JavaScript in conjunction with frameworks like React interesting and one that grows the more I use it.**<br />
 **Now I'm looking forward to grow my skill set in a professional environment while producing work that has an impact.**<br />
 
-
- 
 ---
 
  ### ​Happy to work with: 
@@ -20,9 +18,9 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></br>
 
-</br>
+
 
 **<mark>HTML,</mark>**
 **<mark>CSS,</mark>**
