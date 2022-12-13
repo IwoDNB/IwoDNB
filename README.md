@@ -8,16 +8,16 @@
 
 
  ### ​Happy to work with: 
-<mark>HTML,</mark>
-<mark>CSS,</mark>
-<mark>SASS,</mark>
-<mark>JavaScript,</mark>
-<mark>Bootstrap,</mark>
-<mark>React,</mark>
-<mark>Github,</mark>
-<mark>Node.js,</mark>
-<mark>Express,</mark>
-<mark>MongoDB,</mark>
+**<mark>HTML,</mark>**
+**<mark>CSS,</mark>**
+**<mark>SASS,</mark>**
+**<mark>JavaScript,</mark>**
+**<mark>Bootstrap,</mark>**
+**<mark>React,</mark>**
+**<mark>Github,</mark>**
+**<mark>Node.js,</mark>**
+**<mark>Express,</mark>**
+**<mark>MongoDB,</mark>**
 
 ![](https://github.com/IwoDNB/IwoDNB/blob/main/img/banerColor.png)
 ​
