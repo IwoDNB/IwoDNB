@@ -21,8 +21,10 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-#
 </br>
+
+#
+
 
 **<mark>HTML,</mark>**
 **<mark>CSS,</mark>**
@@ -35,9 +37,7 @@
 **<mark>Github,</mark>**
 **<mark>Bootstrap</mark>**
 
-
-
----
+#
 
 ### Status
 
