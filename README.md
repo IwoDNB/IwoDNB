@@ -12,12 +12,15 @@
 **<mark>CSS,</mark>**
 **<mark>SASS,</mark>**
 **<mark>JavaScript,</mark>**
-**<mark>Bootstrap,</mark>**
-**<mark>React,</mark>**
-**<mark>Github,</mark>**
-**<mark>Node.js,</mark>**
-**<mark>Express,</mark>**
 **<mark>MongoDB,</mark>**
+**<mark>Express,</mark>**
+**<mark>React,</mark>**
+**<mark>Node.js,</mark>**
+**<mark>Github</mark>**
+
+
+
+**<mark>Bootstrap,</mark>**
 
 ![](https://github.com/IwoDNB/IwoDNB/blob/main/img/banerColor.png)
 ​
