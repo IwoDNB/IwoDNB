@@ -1,36 +1,26 @@
-# Iwo Kaczmarzyk
-## DCI Student
-**Hi My name is Iwo**, I come from Poland.
-About 3 years ago I moved to Germany.
-I am interested in changing my profession and that's why I started the Web Development course.
-​
+## Hi, I'm Iwo ! 
 
-​
-**Skill After completing the `DCI Orientation Course`:** 
->- Basic HTML knowledge
->- Basic CSS knowledge
->- The ability to create a simple Website 
->- Basic knowledge of AWS 
->- Basic knowledge of Online Marketing 
-​
+Career-focused, ambitious, creative Junior Developer and UI/UX enthusiast.
+Soon completing a full-time, one-year course in Full Stack development.
+I can say with certainty that coding has grown into a full-blown passion for me.
+I have found the use of JavaScript in conjunction with frameworks like React interesting and one that grows the more I use it.
+Now I'm looking forward to growing my skill set in a professional environment while producing work that has an impact.
 
-**Soft Skills:**
-> - Critical thinking
-> - Problem solving
-> - Teamwork
-> - Professional Attitude
-> - Flexibility / Adaptability 
-​
 
-**After completing the one-year DCI WebDev course, I would like to start working full-time in the IT industry, gain experience and further deepen my knowledge of Web Development and Programming.**
+
+ **​Happy to work with:** 
+- HTML
+- CSS
+- SASS 
+- JavaScript
+- Bootstrap
+- React
+- Github
+- Node.js
+- Express
+- MongoDB
+​
 
 
 ​
-***Link to the DCI Institute:***
 
-​
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIWu-ucKFNFV7IfQB6xF0IIdi9X_odaLCedQNHvKu1OvmItThgHfGZhm6RgQgyoJNyEUY&usqp=CAU)
-​
-
-https://digitalcareerinstitute.org
-​
