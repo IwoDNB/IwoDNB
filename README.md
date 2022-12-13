@@ -49,7 +49,7 @@
 
 
 
-![](https://github.com/IwoDNB/IwoDNB/blob/main/img/reactBW.jpeg)
+![](https://github.com/IwoDNB/IwoDNB/blob/main/img/baner.png)
 ​
 
 
