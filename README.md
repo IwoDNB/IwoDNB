@@ -49,7 +49,7 @@
 
 
 
-![](https://github.com/IwoDNB/IwoDNB/blob/main/img/banerColor.png)
+<!-- ![](https://github.com/IwoDNB/IwoDNB/blob/main/img/banerColor.png) -->
 ​
 
 
