@@ -16,11 +16,8 @@
 **<mark>Express,</mark>**
 **<mark>React,</mark>**
 **<mark>Node.js,</mark>**
-**<mark>Github</mark>**
-
-
-
-**<mark>Bootstrap,</mark>**
+**<mark>Github,</mark>**
+**<mark>Bootstrap</mark>**
 
 ![](https://github.com/IwoDNB/IwoDNB/blob/main/img/banerColor.png)
 ​
