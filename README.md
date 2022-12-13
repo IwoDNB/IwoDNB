@@ -7,7 +7,6 @@
 **Now I'm looking forward to growing my skill set in a professional environment while producing work that has an impact.**<br />
 
 
-
  ### ​Happy to work with: 
 <mark>HTML,</mark>
 <mark>CSS,</mark>
@@ -19,6 +18,8 @@
 <mark>Node.js,</mark>
 <mark>Express,</mark>
 <mark>MongoDB,</mark>
+
+![](https://github.com/IwoDNB/IwoDNB/img/banerColor.png)
 ​
 
 
