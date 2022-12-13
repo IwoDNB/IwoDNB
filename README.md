@@ -1,5 +1,7 @@
 # Hi, I'm Iwo ! 
 
+**`Junior FullStack Developer`**
+
 **Career-focused, ambitious, creative Junior Developer and UI/UX enthusiast.**<br />
 **Soon completing a full-time, one-year course in Full Stack development.**<br />
 **I can say with certainty that coding has grown into a full-blown passion for me.**<br />
@@ -7,7 +9,20 @@
 **Now I'm looking forward to grow my skill set in a professional environment while producing work that has an impact.**<br />
 
 
+ 
+---
+
  ### ​Happy to work with: 
+
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
 **<mark>HTML,</mark>**
 **<mark>CSS,</mark>**
 **<mark>SASS,</mark>**
