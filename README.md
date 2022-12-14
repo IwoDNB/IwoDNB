@@ -21,7 +21,7 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Mongo" width="35px" style="padding-right:30px;" src="https://github.com/IwoDNB/IwoDNB/blob/main/img/mungo.png" />
 <img align="left" alt="boot" width="30px" style="padding-right:30px;" src="https://github.com/IwoDNB/IwoDNB/blob/main/img/boot.png" />
-<img align="left" alt="sql" width="30px" style="padding-right:30px;" src="https://github.com/IwoDNB/IwoDNB/blob/main/img/sql.png" />
+<img align="left" alt="sql" width="40px" style="padding-right:30px;" src="https://github.com/IwoDNB/IwoDNB/blob/main/img/sql.png" />
 
 </br>
 
